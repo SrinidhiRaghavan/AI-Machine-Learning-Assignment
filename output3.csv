@@ -4,3 +4,4 @@ svm_rbf,1.0,0.945
 logistic,0.59,0.59
 knn,0.95,0.94
 decision_tree,0.993333333333,0.935
+random_forest,0.99,0.93
