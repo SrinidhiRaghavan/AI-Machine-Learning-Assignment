@@ -54,6 +54,10 @@ GradientDescent : Gradient Descent implementation
 SVMModels : SVM Models implementations. Kernels used: Linear, Polynomial, RBF, etc. 
 
 
+## Environment ##
+
+Language : Python 3 
+
 ## How to execute? ##
 
 Run python <problem_name> <input_file> <output_file_name>
